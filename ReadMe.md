@@ -13,7 +13,7 @@ The `main.cpp` file contains an implementation of the approximation algorithm fo
 
 ## Input
 
-The code requires the following input files, which should be specified in `main.cpp`:
+The code requires the following input files, which have been be specified in `main.cpp`:
 
 - **TTP Instances**: e.g., `"TTP//Instance//Galaxy16.txt"`
 - **Design of Left Super-Games**: `"TTP//Design//Left_super_game.txt"`
